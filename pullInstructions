@@ -1,2 +1,9 @@
 1. mkdir myDirectory
 2. git clone https://github.com/Viswanathamnarahari/MyUtilities.git
+
+
+PUSH :
+1.git add test.file
+2.git commit -m "added test.file"
+2.1 git status (to check status)
+2.git push -u origin master 
